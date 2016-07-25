@@ -7,6 +7,7 @@ Submitted by: Raikirat Sohi
 
 ## Video Walkthrough 
 
+<img src='https://github.com/RaikiratSohi/Github-RepoFinder/blob/master/GithubRepo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 https://github.com/RaikiratSohi/Github-RepoFinder/blob/master/GithubRepo.gif
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
